@@ -1,4 +1,4 @@
-# react-graphql-apollo-tutorial-boilerplate
+# react-graphql-github-apollo-starter-kit
 
 [![Build Status](https://travis-ci.org/the-road-to-graphql/react-graphql-github-apollo-starter-kit.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/react-graphql-github-apollo-starter-kit) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
