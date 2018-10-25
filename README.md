@@ -6,7 +6,7 @@ A boilerplate project for getting you started with [A complete React with Apollo
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-graphql-apollo-tutorial-boilerplate.git`
+* `git clone git@github.com:the-road-to-graphql/react-graphql-apollo-tutorial-boilerplate.git`
 * cd react-graphql-apollo-tutorial-boilerplate
 * npm install
 * npm start
