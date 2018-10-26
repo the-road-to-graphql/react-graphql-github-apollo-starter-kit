@@ -1,6 +1,6 @@
 # react-graphql-github-apollo-starter-kit
 
-[![Build Status](https://travis-ci.org/the-road-to-graphql/react-graphql-github-apollo-starter-kit.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/react-graphql-github-apollo-starter-kit) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Build Status](https://travis-ci.org/the-road-to-graphql/react-graphql-github-apollo-starter-kit.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/react-graphql-github-apollo-starter-kit) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-graphql/react-graphql-github-apollo-starter-kit.svg)](https://greenkeeper.io/)
 
 A boilerplate project for getting you started with [A complete React with Apollo and GraphQL Tutorial](https://www.robinwieruch.de/react-graphql-apollo-tutorial).
 
